@@ -7,7 +7,7 @@ http://www.cv-foundation.org/?page_id=100
 ### SAC 2018, Biarritz, France.  
 http://oldwww.acm.org/conferences/sac/sac2018/ 
 
-SOSP 2017 (Alternate with OSDI), October 23-26, Shanghai, China.  
+### SOSP 2017 (Alternate with OSDI), October 23-26, Shanghai, China.  
 https://women.acm.org/aggregator/sources/2 
 
 ### INTERSPEECH 2017, August 20–24, Stockholm, Sweden  
@@ -57,9 +57,6 @@ http://www.aaai.org/Conferences/AAAI/aaai17.php
 ### EACL 2017 (Triennial), April 3-7, Valencia, Spain.  
 http://eacl2017.org/ 
 ECIR 2017, Aberdeen. 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 2016
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ICDM 2016, December 12-15, Barcelona, Spain.  
@@ -67,7 +64,7 @@ http://icdm2016.eurecat.org/
 Full paper submissions: June 17 
 Acceptance notification: Sep 9
 
-NIPS 2016, December 5- December 10, Barcelona, SPAIN.  
+### NIPS 2016, December 5- December 10, Barcelona, SPAIN.  
 https://nips.cc/Conferences/2016 
 Paper Submission Deadline:  May 20
 Author Notification Aug. 12
@@ -99,7 +96,7 @@ http://www.emnlp2016.net/
 Long and short paper submission:  June 3
 notification:    July 29
 
-OSDI 16 (Alternate with SOSP), November 2-4, Savannah.  
+### OSDI 16 (Alternate with SOSP), November 2-4, Savannah.  
 https://www.usenix.org/conference/osdi16 
 Abstract:     May 3
 Complete paper:  May 10
@@ -165,7 +162,7 @@ http://www.ecmlpkdd2016.org/
 Abstract submission: April 1
 Author notification: June 20
 
-RecSys 2016,  15-19 September, Boston.  
+### RecSys 2016,  15-19 September, Boston.  
 https://recsys.acm.org/recsys16/ 
 SUBMISSION Long/short:  Abstracts: Apr 13,   Papers: Apr 20
 NOTIFICATIONS:  June 14th
@@ -242,7 +239,7 @@ http://s2016.siggraph.org/
 ### CONDITIONALLY ACCEPTED
 http://s2016.siggraph.org/conditionally-accepted-technical-papers    
 
-AAIM 2016, July 18-20, Bergamo – Italy.  
+### AAIM 2016, July 18-20, Bergamo – Italy.  
 https://aaim2016.wordpress.com/ 
 Accepted Papers:     https://aaim2016.wordpress.com/accepted-papers/   
 
@@ -316,9 +313,9 @@ http://sit.jxufe.cn/waim2016/accepted_papers.html
 ### GI'16, June 1-3, University of Victoria.  
 http://graphicsinterface.org/conference/2016/  
 
-ICWIE 2016, May 26 - 27, Tokyo, Japan.  
+### ICWIE 2016, May 26 - 27, Tokyo, Japan.  
 https://www.waset.org/conference/2016/05/tokyo/ICWIE 
-Conference Program
+### Conference Program
 https://www.waset.org/conference/2016/05/tokyo/ICWIE/program?forceTentative=1 
 
 ### ICWSM-16, May 17-20,  Cologne, Germany. 
@@ -336,13 +333,13 @@ http://www.aistats.org/
 ### Accepted Papers: 
 http://www.aistats.org/accepted.html
 
-CHI 2016, May 7-12, San Jose, CA.  
+### CHI 2016, May 7-12, San Jose, CA.  
 https://chi2016.acm.org/wp/  
                          14 December 2015:   Acceptance Notifications
 
 ### SDM-16, May 5 - 7, Miami, Florida. 
 http://www.siam.org/meetings/sdm16/
-Accepted Papers:
+### Accepted Papers:
 https://sites.google.com/site/sdm2016updates/accepted-papers 
 
 ### ICLR 2016, May 2 - 4, Puerto Rico. 
@@ -365,7 +362,7 @@ http://theory.utdallas.edu/DASFAA2016/index.html
 http://theory.utdallas.edu/DASFAA2016/accepted-papers.html 
 
 -----------------------------------------------------------------------------------------------
-# 2016 past
+****2016 past****
 -----------------------------------------------------------------------------------------------
 
 ### WWW2016,  April 11 - 15, Montreal, Canada.   
@@ -414,7 +411,7 @@ http://www.aaai.org/Conferences/AAAI/aaai16.php
 http://www.aaai.org/Conferences/AAAI/2016/aaai16accepted-papers.pdf  
 
 -----------------------------------------------------------------------------------------------
-# 2015
+****2015****
 -----------------------------------------------------------------------------------------------
 
 ### ICCV 2015 (Biennial), December 13-16, Santiago, Chile.  
