@@ -134,9 +134,9 @@ https://twitter.com/ecir2017
 
 http://icdm2016.eurecat.org/ 
 
-Full paper submissions: June 17 
+                Full paper submissions: June 17 
 
-Acceptance notification: Sep 9
+                Acceptance notification: Sep 9
 
 
 
@@ -144,9 +144,9 @@ Acceptance notification: Sep 9
 
 https://nips.cc/Conferences/2016 
 
-Paper Submission Deadline:  May 20
+                Paper Submission Deadline:  May 20
 
-Author Notification Aug. 12
+                Author Notification Aug. 12
 
 
 
@@ -154,9 +154,9 @@ Author Notification Aug. 12
 
 http://coling2016.anlp.jp/  http://nlp.shef.ac.uk/iccl/index.html 
 
-July 15,           Paper submission
+                July 15,           Paper submission
 
-September 19,          Notification
+                September 19,          Notification
 
 
 
@@ -164,11 +164,11 @@ September 19,          Notification
 
 http://icis2016.aisnet.org/ 
 
-Deadline for paper submissions              8 May  
+                Deadline for paper submissions              8 May  
 
-Initial decision notifications to authors      8 August  
+                Initial decision notifications to authors      8 August  
 
-Final decision notifications of acceptances       22 September 
+                Final decision notifications of acceptances       22 September 
 
 
 
@@ -176,11 +176,11 @@ Final decision notifications of acceptances       22 September
 
 http://www.icpr2016.org/site/ 
 
-submission:        Apr. 04
+                submission:        Apr. 04
 
-Extension, firm: Apr. 20
+                Extension, firm: Apr. 20
 
-Notification:       Jul. 11
+                Notification:       Jul. 11
 
 
 
@@ -188,9 +188,9 @@ Notification:       Jul. 11
 
 http://www.accv2016.org/ 
 
-submission deadline:    May 27
+                submission deadline:    May 27
 
-decisions:    Aug.19
+                decisions:    Aug.19
 
 
 
@@ -198,9 +198,9 @@ decisions:    Aug.19
 
 http://www.emnlp2016.net/ 
 
-Long and short paper submission:  June 3
+                Long and short paper submission:  June 3
 
-notification:    July 29
+                notification:    July 29
 
 
 
@@ -208,11 +208,11 @@ notification:    July 29
 
 https://www.usenix.org/conference/osdi16 
 
-Abstract:     May 3
+                Abstract:     May 3
 
-Complete paper:  May 10
+                Complete paper:  May 10
 
-Notification:   July 30
+                Notification:   July 30
 
 
 
@@ -220,9 +220,9 @@ Notification:   July 30
 
 http://www.cikm2016.org/
 
-Full & Short Abstract          9  May 
+                Full & Short Abstract          9  May 
 
-Acceptance Notification     18 July
+                Acceptance Notification     18 July
 
 
 
@@ -230,15 +230,15 @@ Acceptance Notification     18 July
 
 http://www.comp.nus.edu.sg/~fstephan/alt/alt2016/index.html  
 
-Full paper submission: 13 May
+                Full paper submission: 13 May
 
 Author notification: 30 June
 
-### 
+
 
 http://ds2016.di.uniba.it/  
 
-Full paper submission: 21 May
+                Full paper submission: 21 May
 
 Author notification: 28 June
 
@@ -248,7 +248,7 @@ Author notification: 28 June
 
 http://iswc2016.semanticweb.org/
 
-Research Track,  Resources Track,  & Applications Track:
+                Research Track,  Resources Track,  & Applications Track:
 
 Abstracts: April 20th,    Notifications: June 30th
 
@@ -258,9 +258,9 @@ Abstracts: April 20th,    Notifications: June 30th
 
 http://www.miccai2016.org/en/
 
-Paper submission deadline:   March 10th
+                Paper submission deadline:   March 10th
 
-Release Paper Decisions:     June 3        
+                Release Paper Decisions:     June 3        
 
 
 
@@ -268,13 +268,13 @@ Release Paper Decisions:     June 3
 
 http://www.acmmm.org/2016/ 
 
-Full Papers
+                Full Papers
 
 Abstract submission    27 March
 
 Notification of acceptance    24 June
 
-Short Papers
+                Short Papers
 
 Manuscript submission        25 April
 
@@ -286,11 +286,11 @@ Notification of acceptance   24 June
 
 http://wi-consortium.org/wicweb/html/confer.html 
 
-Full Papers:            Submission: April 1,     Notice of Acceptance: June 10
+                Full Papers:            Submission: April 1,     Notice of Acceptance: June 10
 
 
 
-keynote speakers:   Butler Lampson and Leslie Valiant,  Turing Award Winners in 1992 and 2010 respectively 
+                keynote speakers:   Butler Lampson and Leslie Valiant,  Turing Award Winners in 1992 and 2010 respectively 
 
 
 
@@ -298,11 +298,11 @@ keynote speakers:   Butler Lampson and Leslie Valiant,  Turing Award Winners in 
 
 http://smc2016.org/
 
-Acceptance notification for all categories of papers:  May 25
+                Acceptance notification for all categories of papers:  May 25
 
 
 
-SMC2016 is dedicated to the Hungarian born John von Neumann “a Pioneer of Modern Computer Science”.  In honor of him, the theme of the conference is “A theory that transformed the world to a Cyberspace”
+                SMC2016 is dedicated to the Hungarian born John von Neumann “a Pioneer of Modern Computer Science”.  In honor of him, the theme of the conference is “A theory that transformed the world to a Cyberspace”
 
 
 
@@ -310,9 +310,9 @@ SMC2016 is dedicated to the Hungarian born John von Neumann “a Pioneer of Mode
 
 http://www.eccv2016.org/ 
 
-Submission Deadline:             March 14
+                Submission Deadline:             March 14
 
-Announcement of Decisions :       July 1
+                Announcement of Decisions :       July 1
 
 
 
@@ -320,9 +320,9 @@ Announcement of Decisions :       July 1
 
 http://www.sigmobile.org/mobicom/2016/ 
 
-Paper submissions due: March 15
+                Paper submissions due: March 15
 
-Notification of acceptance: June 13
+                Notification of acceptance: June 13
 
 
 
@@ -330,9 +330,9 @@ Notification of acceptance: June 13
 
 http://www.ecmlpkdd2016.org/ 
 
-Abstract submission: April 1
+                Abstract submission: April 1
 
-Author notification: June 20
+                Author notification: June 20
 
 
 
@@ -340,9 +340,9 @@ Author notification: June 20
 
 https://recsys.acm.org/recsys16/ 
 
-SUBMISSION Long/short:  Abstracts: Apr 13,   Papers: Apr 20
+                SUBMISSION Long/short:  Abstracts: Apr 13,   Papers: Apr 20
 
-NOTIFICATIONS:  June 14th
+                NOTIFICATIONS:  June 14th
 
 
 
@@ -350,9 +350,9 @@ NOTIFICATIONS:  June 14th
 
 http://www.kcmweb.de/conferences/deutsch-2/home-2.html 
 
-Submission deadline:   April 1
+                Submission deadline:   April 1
 
-Notification:   May 30
+                Notification:   May 30
 
 
 
@@ -360,9 +360,9 @@ Notification:   May 30
 
 http://www.interspeech2016.org/ 
 
-   Submission deadline:                    23 March
+                Submission deadline:                    23 March
 
-Disposition notifications sent:      10 June
+                Disposition notifications sent:      10 June
 
 
 
@@ -370,11 +370,11 @@ Disposition notifications sent:      10 June
 
 http://www.vldb.org/conference.html 
 
-RESEARCH TRACK:
+                RESEARCH TRACK:
 
 Accepted Papers:  http://vldb2016.persistent.com/accepted_papers.php 
 
-INDUSTRIAL TRACK: 
+                INDUSTRIAL TRACK: 
 
 Deadline: March 4.       Notification: May 4
 
@@ -384,9 +384,9 @@ Deadline: March 4.       Notification: May 4
 
 http://www.dexa.org/ecweb2016 
 
-submission deadline:  15 April
+                submission deadline:  15 April
 
-Notification:    May 20
+                Notification:    May 20
 
 
 
@@ -394,9 +394,9 @@ Notification:    May 20
 
 http://www.ecai2016.org/ 
 
-April 15    Paper Submission
+                April 15    Paper Submission
 
-June 7      Paper Notification
+                June 7      Paper Notification
 
 
 
@@ -404,7 +404,7 @@ June 7      Paper Notification
 
 http://www.taosciences.it/mod/    
 
-Author Notification:     May 1           
+                Author Notification:     May 1           
 
 
 
@@ -412,7 +412,7 @@ Author Notification:     May 1
 
 http://kdd.org/kdd2016/ 
 
-Notification: May 12                       
+                Notification: May 12                       
 
 
 
@@ -420,7 +420,7 @@ Notification: May 12
 
 http://conferences.sigcomm.org/sigcomm/2016/ 
 
-Accepted Papers: http://conferences.sigcomm.org/sigcomm/2016/papers.php 
+                Accepted Papers: http://conferences.sigcomm.org/sigcomm/2016/papers.php 
 
 
 
@@ -428,7 +428,7 @@ Accepted Papers: http://conferences.sigcomm.org/sigcomm/2016/papers.php
 
 http://saki.siit.tu.ac.th/pricai2016/ 
 
-Notification of Acceptance: April 20   May 09
+                Notification of Acceptance: April 20   May 09
 
 
 
@@ -436,7 +436,7 @@ Notification of Acceptance: April 20   May 09
 
 http://cognitivesciencesociety.org/conference2016/index.html
 
-  Notifications of decision sent:     April 11  
+                Notifications of decision sent:     April 11  
 
 
 
@@ -444,13 +444,13 @@ http://cognitivesciencesociety.org/conference2016/index.html
 
 http://acl2016.org/ 
 
-Accepted Short Papers:  http://acl2016.org/index.php?article_id=13 
+                Accepted Short Papers:  http://acl2016.org/index.php?article_id=13 
 
-long paper notification:  May 24
+                long paper notification:  May 24
 
 
 
-CoNLL: submission: May 6,     Notification: June 1
+                CoNLL: submission: May 6,     Notification: June 1
 
 
 
