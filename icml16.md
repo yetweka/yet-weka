@@ -1,18 +1,21 @@
 # [icml16 accepted papers](http://icml.cc/2016/?page_id=1649 "ICML 2016 Accepted Papers")
 
 
+
 ### 1 No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing 
 [Nihar Shah](http://www.eecs.berkeley.edu/~nihar/), UC Berkeley; Dengyong Zhou, Microsoft Research
 
 
 
-### 2* Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues 
+### 2 Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues 
 Nihar Shah, UC Berkeley; Sivaraman Balakrishnan, CMU; Aditya Guntuboyina, UC Berkeley; Martin Wainwright, UC Berkeley
 
 http://arxiv.org/abs/1510.05610
 
 ### 3 Uprooting and Rerooting Graphical Models 
 [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), University of Cambridge
+
+
 
 ### 4 A Deep Learning Approach to Unsupervised Ensemble Learning 
 Uri Shaham, Yale University; Xiuyuan Cheng, ; Omer Dror, ; Ariel Jaffe, ; Boaz Nadler, ; Joseph Chang, ; Yuval Kluger,
@@ -37,11 +40,17 @@ http://arxiv.org/abs/1603.00448
 ### 8 Additive Approximations in High Dimensional Regression via the SALSA 
 Kirthevasan Kandasamy, Carnegie Mellon University; Yaoliang Yu,
 
+[paper](http://www.cs.cmu.edu/~kkandasa/pubs/kandasamy15salsa.pdf)  [code](https://github.com/kirthevasank/salsa)
+
 ### 9 Hawkes Processes with Stochastic Excitations 
-Young Lee, NICTA; Kar Wai Lim, ANU; Cheng Soon Ong, NICTA
+Young Lee, NICTA; [Kar Wai Lim](http://karwai.weebly.com/publications.html), ANU; Cheng Soon Ong, NICTA
+
+
 
 ### 10 Data-driven Rank Breaking for Efficient Rank Aggregation 
 Sewoong Oh, UIUC; Ashish Khetan, UIUC
+
+http://arxiv.org/abs/1601.05495
 
 ### 11 Dropout distillation 
 Samuel Rota Bulò, FBK; Lorenzo Porzi, FBK; Peter Kontschieder, Microsoft Research Cambridge
