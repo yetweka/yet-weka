@@ -2,25 +2,37 @@
 
 
 ### 1 No Oops, You Won’t Do It Again: Mechanisms for Self-correction in Crowdsourcing 
-Nihar Shah, UC Berkeley; Dengyong Zhou, Microsoft Research
+[Nihar Shah](http://www.eecs.berkeley.edu/~nihar/), UC Berkeley; Dengyong Zhou, Microsoft Research
 
-### 2 Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues 
+
+
+### 2* Stochastically Transitive Models for Pairwise Comparisons: Statistical and Computational Issues 
 Nihar Shah, UC Berkeley; Sivaraman Balakrishnan, CMU; Aditya Guntuboyina, UC Berkeley; Martin Wainwright, UC Berkeley
 
+http://arxiv.org/abs/1510.05610
+
 ### 3 Uprooting and Rerooting Graphical Models 
-Adrian Weller, University of Cambridge
+[Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/), University of Cambridge
 
 ### 4 A Deep Learning Approach to Unsupervised Ensemble Learning 
 Uri Shaham, Yale University; Xiuyuan Cheng, ; Omer Dror, ; Ariel Jaffe, ; Boaz Nadler, ; Joseph Chang, ; Yuval Kluger,
 
+https://arxiv.org/abs/1602.02285
+
 ### 5 Revisiting Semi-Supervised Learning with Graph Embeddings 
 Zhilin Yang, Carnegie Mellon University; Ruslan Salakhudinov, U. of Toronto; William Cohen, CMU
+
+https://arxiv.org/abs/1603.08861
 
 ### 6 Inverse Optimal Control with Deep Networks via Policy Optimization 
 Chelsea Finn, UC Berkeley; Sergey Levine, ; Pieter Abbeel, Berkeley
 
+http://arxiv.org/abs/1603.00448
+
 ### 7 Diversity-Promoting Bayesian Learning of Latent Variable Models 
-Pengtao Xie, Carnegie Mellon University; Jun Zhu, Tsinghua; Eric Xing, CMU
+[Pengtao Xie](http://www.cs.cmu.edu/~pengtaox/), Carnegie Mellon University; Jun Zhu, Tsinghua; Eric Xing, CMU
+
+
 
 ### 8 Additive Approximations in High Dimensional Regression via the SALSA 
 Kirthevasan Kandasamy, Carnegie Mellon University; Yaoliang Yu,
@@ -559,8 +571,10 @@ Ozgur Simsek, ; Simon Algorta, ; Amit Kothiyal,
 ### 186 Gaussian quadrature for matrix inverse forms with applications 
 Chengtao Li, MIT; Suvrit Sra, ; Stefanie Jegelka, MIT
 
-### 187 Train and Test Tightness of LP Relaxations in Structured Prediction 
+### 187* Train and Test Tightness of LP Relaxations in Structured Prediction 
 Ofer Meshi, ; Mehrdad Mahdavi, ; Adrian Weller, University of Cambridge; David Sontag, NYU
+
+https://arxiv.org/abs/1511.01419
 
 ### 188 Stochastic Optimization for Multiview Learning using Partial Least Squares 
 Raman Arora, Johns Hopkins University; Poorya Mianjy, Johns Hopkins University; Teodor Marinov,
