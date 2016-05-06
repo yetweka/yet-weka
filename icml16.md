@@ -53,10 +53,14 @@ Sewoong Oh, UIUC; Ashish Khetan, UIUC
 http://arxiv.org/abs/1601.05495
 
 ### 11 Dropout distillation 
-Samuel Rota Bulò, FBK; Lorenzo Porzi, FBK; Peter Kontschieder, Microsoft Research Cambridge
+[Samuel Rota Bulò](http://www.dsi.unive.it/~srotabul/), FBK; Lorenzo Porzi, FBK; Peter Kontschieder, Microsoft Research Cambridge
+
+
 
 ### 12 Metadata-conscious anonymous messaging 
 Giulia Fanti, UIUC; Peter Kairouz, UIUC; Sewoong Oh, UIUC; Pramod Viswanath, UIUC; kannan ramchandran,
+
+[icml2016](http://web.engr.illinois.edu/~kairouz2/metadata_icml2016.pdf) [nips2015](http://www.ifp.illinois.edu/~kairouz2/main_nips2015.pdf) [ieee-extension](http://eecs.berkeley.edu/~gfanti/metadata_2016.pdf)
 
 ### 13 The Teaching Dimension of Linear Learners 
 Ji Liu, University of Rochester; Xiaojin Zhu, University of Wisconsin; Hrag Ohannessian, University of Wisconsin-Madison
