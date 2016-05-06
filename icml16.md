@@ -65,6 +65,8 @@ Giulia Fanti, UIUC; Peter Kairouz, UIUC; Sewoong Oh, UIUC; Pramod Viswanath, UIU
 ### 13 The Teaching Dimension of Linear Learners 
 Ji Liu, University of Rochester; Xiaojin Zhu, University of Wisconsin; Hrag Ohannessian, University of Wisconsin-Madison
 
+http://arxiv.org/abs/1512.02181
+
 ### 14 Truthful Univariate Estimators 
 Ioannis Caragiannis, University of Patras; Ariel Procaccia, Carnegie Mellon University; Nisarg Shah, Carnegie Mellon University
 
@@ -795,6 +797,8 @@ Xingyuan Pan, University of Utah; Vivek Srikumar, University of Utah
 
 ### 256 Discrete Distribution Estimation under Local Privacy 
 Peter Kairouz, UIUC; Keith Bonawitz, Google; Daniel Ramage,
+
+http://arxiv.org/abs/1602.07387
 
 ### 257 Square Root Graphical Models: Multivariate Generalizations of Univariate Exponential Families which Allow Positive Dependencies 
 David Inouye, University of Texas at Austin; Pradeep Ravikumar, UT Austin; Inderjit ,
