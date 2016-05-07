@@ -70,6 +70,8 @@ http://arxiv.org/abs/1512.02181
 ### 14 Truthful Univariate Estimators 
 Ioannis Caragiannis, University of Patras; Ariel Procaccia, Carnegie Mellon University; Nisarg Shah, Carnegie Mellon University
 
+http://www.cs.cmu.edu/~nkshah/papers/Truthful_Univariate_Estimators.pdf
+
 ### 15 Why Regularized Auto-Encoders learn Sparse Representation? 
 Devansh Arpit, SUNY Buffalo; Yingbo Zhou, SUNY Buffalo; Hung Ngo, SUNY Buffalo; Venu Govindaraju, SUNY Buffalo
 
