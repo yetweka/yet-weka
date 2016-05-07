@@ -246,7 +246,7 @@
 
 <dd>[Eric Heitz](https://eheitzresearch.wordpress.com/), [Jonathan Dupuy](http://onrendering.com/~jdupuy/) ([Unity Technologies](http://unity3d.com/)), Stephen Hill ([Ubisoft](https://www.ubisoft.com/en-GB/)), David Neubelt ([Ready At Dawn Studios](http://www.readyatdawn.com/))</dd>
 
-<dt>**62 Schrodinger's Smoke** [Video](https://youtu.be/5C9BLAXCe1I) [Code](http://multires.caltech.edu/pubs/SchrodingersSmokeCode.zip)</dt>
+<dt>**62 Schrodinger's Smoke** [Preprint](http://multires.caltech.edu/pubs/SchrodingersSmoke.pdf) [Video](https://youtu.be/5C9BLAXCe1I) [Code](http://multires.caltech.edu/pubs/SchrodingersSmokeCode.zip)</dt>
 
 <dd>Albert Chern ([California Institute of Technology](http://www.caltech.edu/)), [Felix Knoppel](http://page.math.tu-berlin.de/~knoeppel/), [Ulrich Pinkall](http://page.math.tu-berlin.de/~pinkall/) ([Technische Universitat Berlin](http://www.tu-berlin.de/)), [Peter Schroder](http://users.cms.caltech.edu/~ps/) ([California Institute of Technology](http://www.caltech.edu/)), Steffen Weismann ([Google Inc.](http://www.google.com/))</dd>
 
