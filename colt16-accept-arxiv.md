@@ -1,3 +1,5 @@
+[colt16](https://blogs.princeton.edu/imabandit/2016/05/05/colt-2016-accepted-papers/)
+
 |  |  <li class="paper"><span class="authors"><a href="http://tor-lattimore.com" class="liexternal">Tor Lattimore</a>. </span><span class="title"><a href="http://arxiv.org/abs/1511.06014" class="liexternal">Regret Analysis of the Finite-Horizon Gittins Index Strategy for Multi-Armed Bandits</a></span></li> |
 |  |  <li class="paper"><span class="authors">Ronen Eldan and Ohad Shamir. </span><span class="title"><a href="http://arxiv.org/abs/1512.03965" class="liexternal">The Power of Depth for Feedforward Neural Networks</a></span></li> |
 |  |  <li class="paper"><span class="authors"><a href="http://www.cs.huji.ac.il/%7Ecohennadav/" class="liexternal">Nadav Cohen</a>, <a href="http://www.cs.huji.ac.il/%7Eors07/" class="liexternal">Or Sharir</a> and <a href="http://www.cs.huji.ac.il/%7Eshashua/" class="liexternal">Amnon Shashua</a>. </span><span class="title"><a href="http://arxiv.org/abs/1509.05009" class="liexternal">On the Expressive Power of Deep Learning: A Tensor Analysis</a></span></li> |
