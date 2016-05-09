@@ -105,85 +105,137 @@ Yue Zhang, Case Western Reserve University; Weihong Guo, Case Western Reserve Un
 ### 21 Minimum Regret Search for Single- and Multi-Task Optimization 
 Jan Hendrik Metzen, University Bremen
 
-
+https://arxiv.org/abs/1602.01064
 
 ### 22 CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy 
 Nathan Dowlin, Princeton; Ran , ; Kim Laine, Microsoft Research; Kristin Lauter, Microsoft Research; Michael Naehrig, Microsoft Research; John Wernsing, Microsoft Research
 
+[microsoft](http://research.microsoft.com/apps/pubs/default.aspx?id=260989) [princeton](http://web.math.princeton.edu/~ndowlin/website-assets/Cryptonets.pdf) 
+
 ### 23 The Variational Nystrom method for large-scale spectral problems 
-Max Vladymyrov, Yahoo Labs; Miguel Carreira-Perpinan, UC Merced
+[Max Vladymyrov](https://eng.ucmerced.edu/people/vladymyrov/), Yahoo Labs; Miguel Carreira-Perpinan, UC Merced
+
+
 
 ### 24 MBA: Multi-Bias Non-linear Activation in Deep Neural Networks 
 Hongyang Li, The Chinese Univ. of HK; Wanli Ouyang, ; Xiaogang Wang,
 
+https://arxiv.org/abs/1604.00676
+
 ### 25 Asymmetric Multi-task Learning based on Task Relatedness and Confidence 
-Giwoong Lee, UNIST; Eunho Yang, IBM Research; Sung ju Hwang, UNIST
+Giwoong Lee, UNIST; Eunho Yang, IBM Research; [Sung ju Hwang](http://www.sungjuhwang.com/index.php/sample-page/), UNIST
+
+
 
 ### 26 Accurate Robust and Efficient Error Estimation for Decision Trees 
 Lixin Fan, Nokia Technologies
 
+
+
 ### 27 Fast Stochastic Algorithms for SVD and PCA: Convergence Properties and Convexity 
 Ohad Shamir, Weizmann Institute of Science
+
+http://arxiv.org/abs/1507.08788
 
 ### 28 Convergence of Stochastic Gradient Descent for PCA 
 Ohad Shamir, Weizmann Institute of Science
 
+http://arxiv.org/abs/1509.09002
+
 ### 29 Dealbreaker: A Nonlinear Latent Variable Model for Educational Data 
 Andrew Lan, Rice University; Tom Goldstein, University of Maryland; Christoph Studer, Cornell University; Richard Baraniuk, Rice University
+
+
 
 ### 30 A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation 
 qiang liu, ; Jason Lee, UC Berkeley; Michael ,
 
+http://arxiv.org/abs/1602.03253
+
 ### 31 Variable Elimination in the Fourier Domain 
 Yexiang Xue, Cornell University; Stefano Ermon, ; Ronan Le Bras, Cornell University; Carla , ; Bart ,
 
+http://arxiv.org/abs/1508.04032
+
 ### 32 Low-Rank Matrix Approximation with Stability 
-Dongsheng Li, IBM Research – China; Chao Chen, ; Qin Lv, ; Junchi Yan, ; Li Shang, ; Stephen Chu,
+Dongsheng Li, IBM Research – China; [Chao Chen](http://chenkehan.me/), ; Qin Lv, ; Junchi Yan, ; Li Shang, ; Stephen Chu,
+
+
 
 ### 33 Linking losses for density ratio and class-probability estimation 
-Aditya Menon, National ICT Australia; Cheng Soon Ong, NICTA
+[Aditya Menon](http://users.cecs.anu.edu.au/~akmenon/), National ICT Australia; Cheng Soon Ong, NICTA
+
+
 
 ### 34 Stochastic Variance Reduction for Nonconvex Optimization 
 Sashank J. Reddi, Carnegie Mellon University; Ahmed Hefny, ; Suvrit Sra, ; Barnabas Poczos, ; Alex ,
 
+http://arxiv.org/abs/1603.06160
+
 ### 35 Hierarchical Variational Models 
 Rajesh Ranganath, ; Dustin Tran, Columbia University; Blei David, Columbia
 
+https://arxiv.org/abs/1511.02386
+
 ### 36 Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams 
-Roy Adams, Univ. of Massachusetts-Amherst; Nazir Saleheen, ; Edison Thomaz, ; Abhinav Parate, ; Santosh Kumar, ; Ben Marlin,
+[Roy Adams](https://people.cs.umass.edu/~rjadams/), Univ. of Massachusetts-Amherst; Nazir Saleheen, ; Edison Thomaz, ; Abhinav Parate, ; Santosh Kumar, ; Ben Marlin,
+
+
 
 ### 37 Binary embeddings with structured hashed projections 
 Anna Choromanska, Courant Institute, NYU; Krzysztof Choromanski, Google Research NYC; Mariusz Bojarski, NVIDIA; Tony Jebara, Columbia; Sanjiv Kumar, ; Yann ,
 
+http://arxiv.org/abs/1511.05212
+
 ### 38 A Variational Analysis of Stochastic Gradient Algorithms 
 Stephan Mandt, Columbia University; Matthew Hoffman, Adobe Research; Blei David, Columbia
 
+http://arxiv.org/abs/1602.02666
+
 ### 39 Adaptive Sampling for SGD by Exploiting Side Information 
-Siddharth Gopal,
+[Siddharth Gopal](http://gcdart.blogspot.com/p/publications.html),
+
+
 
 ### 40 Learning from Multiway Data: Simple and Efficient Tensor Regression 
-Rose Yu, University of Southern Cal; Yan Liu,
+[Rose Yu](http://roseyu.com/), University of Southern Cal; Yan Liu,
+
+
 
 ### 41 A Distributed Variational Inference Framework for Unifying Parallel Sparse Gaussian Process Regression Models 
-Trong Nghia Hoang, NUS; Quang Minh Hoang, NUS; Bryan Kian Hsiang Low, NUS
+[Trong Nghia Hoang](https://sites.google.com/site/idmhtn/home/publications), NUS; Quang Minh Hoang, NUS; Bryan Kian Hsiang Low, NUS
+
+
 
 ### 42 Online Stochastic Linear Optimization under One-bit Feedback 
 Lijun Zhang, Nanjing University; Tianbao Yang, University of Iowa; Rong Jin, Alibaba Group; Yichi Xiao, Nanjing University; Zhi-hua Zhou,
 
+http://arxiv.org/abs/1509.07728
+
 ### 43 Adaptive Algorithms for Online Convex Optimization with Long-term Constraints 
 Rodolphe Jenatton, ; Jim Huang, Amazon; Cedric Archambeau,
+
+http://arxiv.org/abs/1512.07422
 
 ### 44 Actively Learning Hemimetrics with Applications to Eliciting User Preferences 
 Adish Singla, ; Sebastian Tschiatschek, ETH Zurich; Andreas Krause,
 
+
+
 ### 45 Learning Simple Algorithms from Examples 
 Wojciech Zaremba, ; Tomas , ; Armand Joulin, ; Rob Fergus, Facebook AI Research
+
+
 
 ### 46 Learning Physical Intuition of Block Towers by Example 
 Adam Lerer, Facebook AI Research; Rob Fergus, Facebook AI Research
 
+
+
 ### 47 Structure Learning of Partitioned Markov Networks 
 Song Liu, The Inst. of Stats. Math.; Taiji Suzuki, ; Masashi Sugiyama, University of Tokyo; Kenji ,
+
+
 
 ### 48 Tracking Slowly Moving Clairvoyant: Optimal Dynamic Regret of Online Learning with True and Noisy Gradient 
 Tianbao Yang, University of Iowa; Lijun Zhang, Nanjing University; Rong Jin, ; Jinfeng Yi, IBM Research
@@ -191,56 +243,92 @@ Tianbao Yang, University of Iowa; Lijun Zhang, Nanjing University; Rong Jin, ; J
 ### 49 Beyond CCA: Moment Matching for Multi-View Models 
 Anastasia Podosinnikova, INRIA – ENS; Francis Bach, Inria; Simon Lacoste-Julien, INRIA
 
+
+
 ### 50 Fast Methods for Estimating the Numerical Rank of Large Matrices 
 Shashanka Ubaru, University of Minnesota; Yousef Saad, University of Minnesota
+
+
 
 ### 51 Unsupervised Deep Embedding for Clustering Analysis 
 Junyuan Xie, University of Washington; Ross Girshick, Facebook; Ali Farhadi, University of Washington
 
+
+
 ### 52 Efficient Private Empirical Risk Minimization for High-dimensional Learning 
 Shiva Kasiviswanathan, Samsung Research America; Hongxia Jin, Samsung Research America
+
+
 
 ### 53 Parameter Estimation for Generalized Thurstone Choice Models 
 Milan Vojnovic, Microsoft; Seyoung Yun, Microsoft
 
+
+
 ### 54 Large-Margin Softmax Loss for Convolutional Neural Networks 
 Weiyang Liu, Peking University; Yandong Wen, South China University of Technology; Zhiding Yu, Carnegie Mellon University; Meng Yang, Shenzhen University
+
+
 
 ### 55 A Random Matrix Approach to Recurrent Neural Networks 
 Romain Couillet, CentraleSupelec; Gilles Wainrib, ENS Ulm, Paris, France; Hafiz Tiomoko Ali, CentraleSupelec, Gif-sur-Yvette, France; Harry Sevi, ENS Lyon, Lyon, Paris
 
+
+
 ### 56 Supervised and Semi-Supervised Text Categorization using One-Hot LSTM for Region Embeddings 
 Rie Johnson, RJ Research Consulting; Tong Zhang,
+
+http://arxiv.org/abs/1602.02373
 
 ### 57 Optimality of Belief Propagation for Crowdsourced Classification 
 Jungseul Ok, KAIST; Sewoong Oh, UIUC; Jinwoo Shin, KAIST; Yung Yi, KAIST
 
+
+
 ### 58 Stability of Controllers for Gaussian Process Forward Models 
 Julia Vinogradska, Robert Bosch GmBH; Bastian Bischoff, ; Duy Nguyen-Tuong, ; Anne Romer, ; Henner Schmidt, ; Jan Peters,
+
+
 
 ### 59 Learning privately from multiparty data 
 Jihun Hamm, ; Yingjun Cao, UC-San Diego; Mikhail Belkin,
 
+
+
 ### 60 Network Morphism Tao Wei, University at Buffalo; 
 Changhu Wang, Microsoft Research; Yong Rui, Microsoft Research; Chang Wen Chen,
+
+
 
 ### 61 A Kronecker-factored approximate Fisher matrix for convolution layers 
 Roger Grosse, ; James Martens, University of Toronto
 
+
+
 ### 62 Experimental Design on a Budget for Sparse Linear Models and Applications 
 Sathya Narayanan Ravi, UW Madison; Vamsi Ithapu, UW Madison; Vikas Singh, ; Sterling Johnson, UW Madison
+
+
 
 ### 63 Minding the Gaps for Block Frank-Wolfe Optimization of Structured SVM 
 Anton Osokin, ; Jean-Baptiste Alayrac, ENS; Puneet Dokania, INRIA and Ecole Centrale Paris; Simon Lacoste-Julien, INRIA
 
+
+
 ### 64 Exact Exponent in Optimal Rates for Crowdsourcing 
 Chao Gao, Yale University; Yu Lu, Yale University; Dengyong Zhou, Microsoft Research
+
+
 
 ### 65 Augmenting Neural Networks with Reconstructive Decoding Pathways for Large-scale Image Classification 
 Yuting Zhang, University of Michigan; Kibok Lee, University of Michigan; Honglak Lee, University of Michigan
 
+
+
 ### 66 Online Low-Rank Subspace Clustering by Explicit Basis Modeling 
 Jie Shen, Rutgers University; Ping Li, Rutgers; Huan Xu,
+
+
 
 ### 67 A Self-Correcting Variable-Metric Algorithm for Stochastic Optimization 
 Frank Curtis, Lehigh University
