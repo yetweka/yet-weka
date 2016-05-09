@@ -75,23 +75,37 @@ http://www.cs.cmu.edu/~nkshah/papers/Truthful_Univariate_Estimators.pdf
 ### 15 Why Regularized Auto-Encoders learn Sparse Representation? 
 Devansh Arpit, SUNY Buffalo; Yingbo Zhou, SUNY Buffalo; Hung Ngo, SUNY Buffalo; Venu Govindaraju, SUNY Buffalo
 
+http://arxiv.org/abs/1505.05561
+
 ### 16 k-variates++: more pluses in the k-means++ 
 Richard Nock, Nicta & ANU; Raphael Canyasse, Ecole Polytechnique and The Technion; Roksana Boreli, Data61; Frank Nielsen, Ecole Polytechnique and Sony CS Labs Inc.
+
+http://arxiv.org/abs/1602.01198
 
 ### 17 Multi-Player Bandits — a Musical Chairs Approach 
 Jonathan Rosenski, Weizmann Institute of Science; Ohad Shamir, Weizmann Institute of Science; Liran Szlak, Weizmann Institute of Science
 
+http://arxiv.org/abs/1512.02866
+
 ### 18 The Information Sieve 
 Greg Ver Steeg, Information Sciences Institute; Aram Galstyan, Information Sciences Institute
+
+[paper](http://arxiv.org/abs/1507.02284)  [code](https://github.com/gregversteeg/discrete_sieve)
 
 ### 19 End-to-End Speech Recognition in English and Mandarin 
 Sanjeev Satheesh, Baidu SVAIL; Dario Amodei, ; Rishita Anubhai, ; Eric Battenberg, ; Carl Case, ; Jared Casper, ; Bryan Catanzaro, ; Mike Chrzanowski, Baidu USA, Inc.; Adam Coates, ; Greg Diamos, Baidu USA, Inc.; Erich Elsen, Baidu USA, Inc.; Jesse Engel, ; Christopher Fougner, ; Awni Hannun, Baidu USA, Inc.; Billy Jun, ; Patrick LeGresley, ; Sharan Narang, ; Andrew Ng, ; Sherjil Ozair, ; Ryan Prenger, ; Jonathan Raiman, ; David Seetapun, ; Shubho Sengupta, ; Chong Wang, ; Yi Wang, ; Libby Lin, ; Tony Han, ; zhenyao Zhu, ; Dani Yogatama, ; Bo Xiao, ; JingDong Chen, ; Zhiqian Wang, ; Jun Zhan, ; Linxi Fan,
 
+http://arxiv.org/abs/1512.02595
+
 ### 20 On the Consistency of Feature Selection With Lasso for Non-linear Targets 
 Yue Zhang, Case Western Reserve University; Weihong Guo, Case Western Reserve University; Soumya Ray,
 
+
+
 ### 21 Minimum Regret Search for Single- and Multi-Task Optimization 
 Jan Hendrik Metzen, University Bremen
+
+
 
 ### 22 CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy 
 Nathan Dowlin, Princeton; Ran , ; Kim Laine, Microsoft Research; Kristin Lauter, Microsoft Research; Michael Naehrig, Microsoft Research; John Wernsing, Microsoft Research
