@@ -45,7 +45,7 @@ Ramprasad Saptharishi, Amir Shpilka, and Ben Lee Volk. (Tel Aviv University, Isr
 ### 9 A Cost Function for Similarity-Based Hierarchical Clustering
 Sanjoy Dasgupta. (University of California at San Diego, USA)
 
-
+http://cseweb.ucsd.edu/~dasgupta/papers/hier-cost.pdf
 
 ### 10 Explicit Two-Source Extractors and Resilient Functions
 Eshan Chattopadhyay and David Zuckerman. (University of Texas at Austin, USA)
