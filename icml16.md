@@ -492,6 +492,8 @@ Aonan Zhang, Columbia University; John Paisley,
 ### 120 The Knowledge Gradient for Sequential Decision Making with Stochastic Binary Feedbacks 
 Yingfei Wang, Princeton University; Chu Wang, ; Warren Powell,
 
+https://arxiv.org/abs/1510.02354
+
 ### 121 A Simple and Provable Algorithm for Sparse CCA 
 Megasthenis Asteris, University of Texas at Austin; Anastasios Kyrillidis, ; Oluwasanmi Koyejo, Stanford University & University of Illinois at Urbana Champaign; Russell Poldrack, Stanford University
 
