@@ -253,7 +253,7 @@ Shashanka Ubaru, University of Minnesota; Yousef Saad, University of Minnesota
 ### 51 Unsupervised Deep Embedding for Clustering Analysis 
 Junyuan Xie, University of Washington; Ross Girshick, Facebook; Ali Farhadi, University of Washington
 
-
+http://arxiv.org/abs/1511.06335
 
 ### 52 Efficient Private Empirical Risk Minimization for High-dimensional Learning 
 Shiva Kasiviswanathan, Samsung Research America; Hongxia Jin, Samsung Research America
@@ -273,7 +273,7 @@ Weiyang Liu, Peking University; Yandong Wen, South China University of Technolog
 ### 55 A Random Matrix Approach to Recurrent Neural Networks 
 Romain Couillet, CentraleSupelec; Gilles Wainrib, ENS Ulm, Paris, France; Hafiz Tiomoko Ali, CentraleSupelec, Gif-sur-Yvette, France; Harry Sevi, ENS Lyon, Lyon, Paris
 
-
+http://couillet.romain.perso.sfr.fr/docs/conf/NN_ICML.pdf
 
 ### 56 Supervised and Semi-Supervised Text Categorization using One-Hot LSTM for Region Embeddings 
 Rie Johnson, RJ Research Consulting; Tong Zhang,
@@ -303,7 +303,7 @@ Changhu Wang, Microsoft Research; Yong Rui, Microsoft Research; Chang Wen Chen,
 ### 61 A Kronecker-factored approximate Fisher matrix for convolution layers 
 Roger Grosse, ; James Martens, University of Toronto
 
-
+https://arxiv.org/abs/1602.01407
 
 ### 62 Experimental Design on a Budget for Sparse Linear Models and Applications 
 Sathya Narayanan Ravi, UW Madison; Vamsi Ithapu, UW Madison; Vikas Singh, ; Sterling Johnson, UW Madison
@@ -328,7 +328,7 @@ Yuting Zhang, University of Michigan; Kibok Lee, University of Michigan; Honglak
 ### 66 Online Low-Rank Subspace Clustering by Explicit Basis Modeling 
 Jie Shen, Rutgers University; Ping Li, Rutgers; Huan Xu,
 
-
+http://arxiv.org/abs/1503.08356
 
 ### 67 A Self-Correcting Variable-Metric Algorithm for Stochastic Optimization 
 Frank Curtis, Lehigh University
@@ -385,7 +385,9 @@ Celestine Dünner, IBM Research; Simone Forte, Google; Martin Takac, ; Martin Ja
 Shai Shalev-Shwartz, Hebrew University of Jerusalem; Yonatan Wexler, Orcam
 
 ### 85 The Sample Complexity of Subspace Clustering with Missing Data 
-Daniel Pimentel-Alarcon, UW-Madison; Robert Nowak,
+[Daniel Pimentel-Alarcon](http://homepages.cae.wisc.edu/~pimentel/research.html), UW-Madison; Robert Nowak,
+
+
 
 ### 86 Online Learning with Feedback Graphs Without the Graphs 
 Alon Cohen, Technion; Tamir Hazan, ; Tomer Koren,
@@ -407,6 +409,8 @@ Pascal Germain, INRIA; Amaury Habrard, ; François Laviolette, GRAAL, Universit�
 
 ### 92 Correlation Clustering and Biclustering with Locally Bounded Errors 
 Gregory Puleo, UIUC; Olgica Milenkovic, UIUC
+
+http://arxiv.org/abs/1506.08189
 
 ### 93 PAC Lower Bounds and Efficient Algorithms for The Max KK-Armed Bandit Problem 
 Yahel David, Technion; Nahum Shimkin, Technion
@@ -449,6 +453,8 @@ Yuchen Zhang, ; Jason Lee, UC Berkeley; Michael ,
 
 ### 106 Compressive Spectral Clustering 
 Nicolas TREMBLAY, INRIA Rennes; Gilles Puy, INRIA; Remi Gribonval, INRIA; Pierre Vandergheynst, EPFL
+
+https://arxiv.org/abs/1602.02018
 
 ### 107 Low-rank tensor completion: a Riemannian manifold preconditioning approach 
 Hiroyuki Kasai, The University of Electro-Comm; Bamdev Mishra, Amazon Development Centre India
@@ -515,6 +521,8 @@ Wen Sun, Carnegie Mellon University; Arun Venkatraman, Carnegie Mellon Universit
 ### 127 A Subspace Learning Approach for High Dimensional Matrix Decomposition with Efficient Column/Row Sampling 
 Mostafa Rahmani, University of Central Florida; Geroge Atia, University of Central Florida
 
+https://arxiv.org/abs/1502.00182
+
 ### 128 DCM Bandits: Learning to Rank with Multiple Clicks 
 Sumeet Katariya, University of Wisconsin Madiso; Branislav Kveton, ; Csaba Szepesvari, Alberta; Zheng Wen, Adobe Research
 
@@ -545,6 +553,8 @@ David Balduzzi, ; Muhammad Ghifary, Victoria University Wellington; Weta Digital
 ### 137 Distributed Clustering of Linear Bandits in Peer to Peer Networks 
 Nathan Korda, University of Oxford; Balazs Szorenyi, ; Shuai Li, University of Insubria
 
+https://arxiv.org/abs/1604.07706
+
 ### 138 Collapsed Variational Inference for Sum-Product Networks 
 Han Zhao, Carnegie Mellon University; Tameem Adel, University of Amsterdam; Geoff Gordon, CMU; Brandon Amos, Carnegie Mellon University
 
@@ -555,7 +565,9 @@ Piyush Khandelwal, University of Texas at Austin; Elad Liebman, ; Scott , ; Pete
 Yan Duan, University of California, Berk; Xi Chen, University of California, Berkeley; Rein Houthooft, Ghent University; John Schulman, University of California, Berkeley; Pieter Abbeel, Berkeley
 
 ### 141 KK-Means Clustering with Distributed Dimensions 
-Hu Ding, State University of New York at Buffalo; Lingxiao Huang, ; Yu Liu, Tsinghua University, IIIS; Jian Li,
+[Hu Ding](http://www.cse.msu.edu/~huding/), State University of New York at Buffalo; Lingxiao Huang, ; Yu Liu, Tsinghua University, IIIS; Jian Li,
+
+[related paper: (Cohen et al. STOC 2015)](http://dl.acm.org/citation.cfm?doid=2746539.2746569)
 
 ### 142 Texture Networks: Feed-forward Synthesis of Textures and Stylized Images 
 Dmity Ulyanov, Skolkovo institute of science ; Vadim Lebedev, ; Andrea , ; Victor Lempitsky, Skolkovo Institute of Sci&Tech
@@ -793,6 +805,8 @@ Théo Trouillon, Xerox; Johannes Welbl, ; Guillaume Bouchard, ; Sebastian Riedel
 ### 219 Interactive Bayesian Hierarchical Clustering 
 Sharad Vikram, UCSD; Sanjoy Dasgupta, UCSD
 
+http://arxiv.org/abs/1602.03258
+
 ### 220 A Convolutional Attention Network for Extreme Summarization of Source Code 
 Miltiadis Allamanis, University of Edinburgh, UK; Hao Peng, Peking University, China; Charles ,
 
@@ -862,6 +876,8 @@ Kai-Yang Chiang, UT Austin; Cho-Jui Hsieh, UC Davis; Inderjit ,
 ### 242 Towards Faster Rates and Oracle Property for Low-Rank Matrix Estimation 
 Huan Gui, University of Illinois at Urba; Jiawei Han, university of illinois at urbana-champaign; Quanquan Gu,
 
+http://arxiv.org/abs/1505.04780
+
 ### 243 Early and Reliable Event Detection Using Proximity Space Representation 
 Maxime Sangnier, LTCI, CNRS, Télécom ParisTech; Jerome Gauthier, CEA; Alain Rakotomamonjy,
 
@@ -877,8 +893,12 @@ Junhong Lin, Istituto Italiano di Tecnologi; Raffaello Camoriano, IIT (Italy) an
 ### 247 Principal Component Projection Without Principal Component Analysis 
 Roy Frostig, Stanford University; Cameron Musco, Massachusetts Institute of Technology; Christopher Musco, Mass. Institute of Technology; Aaron Sidford, Microsoft Research, New England
 
+http://arxiv.org/abs/1602.06872
+
 ### 248 Recovery guarantee of weighted low-rank approximation via alternating minimization 
 Yuanzhi Li, Princeton University; Yingyu Liang, Princeton; Andrej Risteski, Princeton University
+
+http://arxiv.org/abs/1602.02262
 
 ### 249 Deconstructing the Ladder Network Architecture 
 Mohammad Pezeshki, Universite de Montreal; Linxi Fan, ; Philemon Brakel, ; Aaron Courville, ; Yoshua Bengio, U. of Montreal
@@ -997,7 +1017,7 @@ Sudipto Guha, ; Nina Mishra, ; Gourav Roy, ; Okke Schrijvers,
 Tom Goldstein, University of Maryland; Gavin Taylor, US Naval Academy; Ankit Patel, Rice University; Ryan Burmeister, US Naval Academy; Zheng Xu, University of Maryland; Bharat Singh, University of Maryland, Colleg
 
 ### 287 Topographical Features of High-Dimensional Categorical Data and Their Applications to Clustering 
-Chao Chen, CUNY; Novi Quadrianto, University of Sussex
+[Chao Chen](http://eniac.cs.qc.cuny.edu/cchen/), CUNY; Novi Quadrianto, University of Sussex
 
 ### 288 Efficient Algorithms for Large-scale Generalized Eigenvector Computation and CCA 
 Rong Ge, ; Chi Jin, UC Berkeley; Sham , ; Praneeth Netrapalli, Microsoft Research; Aaron Sidford, Microsoft Research, New England
