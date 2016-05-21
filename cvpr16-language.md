@@ -9,8 +9,8 @@ http://www-personal.umich.edu/~reedscot/files/cvpr2016.pdf
 
 ### 7   Multi-Cue Zero-Shot Learning With Strong Supervision. 
 Zeynep Akata, Mateusz Malinowski, Mario Fritz, Bernt Schiele
-http://arxiv.org/abs/1603.08754
 
+http://arxiv.org/abs/1603.08754
 
 ### 8   Latent Embeddings for Zero-Shot Classification. 
 Yongqin Xian, Zeynep Akata, Gaurav Sharma, Quynh Nguyen, Matthias Hein, Bernt Schiele
