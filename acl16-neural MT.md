@@ -20,7 +20,7 @@ http://arxiv.org/abs/1511.06709 [cited by 4]
 ### Minimum Risk Training for Neural Machine Translation
 Shiqi Shen, Yong Cheng, Zhongjun He, Wei He, Hua Wu, Maosong Sun and Yang Liu
 
-[paper](http://arxiv.org/abs/1512.02433) [cited by 5]
+http://arxiv.org/abs/1512.02433 [cited by 5]
 
 ### Modeling Coverage for Neural Machine Translation
 Zhaopeng Tu, Zhengdong Lu, Yang Liu, Xiaohua Liu and Hang Li
