@@ -5,22 +5,22 @@
 ### Adaptive Joint Learning of Compositional and Non-Compositional Phrase Embeddings
 Kazuma Hashimoto and Yoshimasa Tsuruoka
 
-http://arxiv.org/abs/1603.06147
+http://arxiv.org/abs/1603.06067
 
 ### Compositional Learning of Embeddings for Relation Paths in Knowledge Base and Text
 Kristina Toutanova, Victoria Lin, Wen-tau Yih, Hoifung Poon and Chris Quirk
 
-https://arxiv.org/abs/1604.00788
+[Representing Text for Joint Embedding of Text and Knowledge Bases, emnlp15](http://cs.stanford.edu/people/danqi/papers/emnlp2015.pdf)
 
 ### Cross-lingual Models of Word Embeddings: An Empirical Comparison
 Shyam Upadhyay, Manaal Faruqui, Chris Dyer and Dan Roth
 
-http://arxiv.org/abs/1511.06709 [cited by 4]
+https://arxiv.org/abs/1604.00425
 
 ### CSE: Conceptual Sentence Embeddings based on Attention Model
 Yashen Wang, Heyan Huang, Chong Feng, Qiang Zhou, Jiahui Gu and Xiong Gao
 
-http://arxiv.org/abs/1512.02433 [cited by 5]
+ 
 
 ### Diachronic word embeddings reveal laws of semantic change
 William Hamilton, Jure Leskovec and Dan Jurafsky
@@ -30,42 +30,42 @@ http://arxiv.org/abs/1605.09096
 ### Embeddings for Word Sense Disambiguation: An Evaluation Study
 Ignacio Iacobacci, Mohammad Taher Pilehvar and Roberto Navigli
 
-http://arxiv.org/abs/1508.07909 [cited by 8]
+[SENSEMBED: Learning Sense Embeddings for Word and Relational Similarity, acl15](http://wwwusers.di.uniroma1.it/~navigli/pubs/ACL_2015_Iacobaccietal.pdf)
 
 ### Generative Topic Embedding: a Continuous Representation of Documents
 Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao
 
-
+http://arxiv.org/abs/1508.03826
 
 ### Intrinsic Subspace Evaluation of Word Embedding Representations
 Yadollah Yaghoobzadeh and Hinrich Schütze
 
-http://arxiv.org/abs/1603.06075
+
 
 ### Investigating Language Universal and Specific in Word Embedding
 Peng Qian, Xipeng Qiu and Xuanjing Huang
 
-https://arxiv.org/abs/1603.00810
+
 
 ### Jointly Learning to Embed and Predict with Multiple Languages
 Daniel C. Ferreira, André F. T. Martins and Mariana S. C. Almeida
 
-https://arxiv.org/abs/1605.04569
+
 
 ### Knowledge-Based Semantic Embedding for Machine Translation
 Chen Shi
 
-https://arxiv.org/abs/1605.03209
+
 
 ### Learning Word Meta-Embeddings
 Wenpeng Yin and Hinrich Schütze
 
-https://arxiv.org/abs/1605.04569
+
 
 ### Morphological Smoothing and Extrapolation of Word Embeddings
 Ryan Cotterell, Jason Eisner and Hinrich Schütze
 
-https://arxiv.org/abs/1605.03209
+
 
 ### Neural Semantic Role Labeling with Dependency Path Embeddings
 Michael Roth and Mirella Lapata
