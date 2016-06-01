@@ -35,10 +35,10 @@ Ignacio Iacobacci, Mohammad Taher Pilehvar and Roberto Navigli
 ### Generative Topic Embedding: a Continuous Representation of Documents
 Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao
 
-http://arxiv.org/abs/1508.03826
+[A Generative Word Embedding Model and its Low Rank Positive Semidefinite Solution, emnlp15](http://arxiv.org/abs/1508.03826)
 
 ### Intrinsic Subspace Evaluation of Word Embedding Representations
-Yadollah Yaghoobzadeh and Hinrich Schütze
+[Yadollah Yaghoobzadeh](http://www.cis.uni-muenchen.de/~yadollah/publications.html) and Hinrich Schütze
 
 
 
@@ -48,32 +48,32 @@ Peng Qian, Xipeng Qiu and Xuanjing Huang
 
 
 ### Jointly Learning to Embed and Predict with Multiple Languages
-Daniel C. Ferreira, André F. T. Martins and Mariana S. C. Almeida
+[Daniel C. Ferreira](https://www.cs.cmu.edu/~afm/Home.html), André F. T. Martins and Mariana S. C. Almeida
 
 
 
 ### Knowledge-Based Semantic Embedding for Machine Translation
 Chen Shi
 
-
+http://research.microsoft.com/apps/pubs/default.aspx?id=266475
 
 ### Learning Word Meta-Embeddings
 Wenpeng Yin and Hinrich Schütze
 
-
+http://arxiv.org/abs/1508.04257
 
 ### Morphological Smoothing and Extrapolation of Word Embeddings
-Ryan Cotterell, Jason Eisner and Hinrich Schütze
+[Ryan Cotterell](http://hubal.cs.jhu.edu/personal/), Jason Eisner and Hinrich Schütze
 
 
 
 ### Neural Semantic Role Labeling with Dependency Path Embeddings
 Michael Roth and Mirella Lapata
 
-
+https://arxiv.org/abs/1605.07515
 
 ### On approximately searching similar word embeddings
-Kohei Sugawara, Hayato Kobayashi and Masajiro Iwasaki
+[Kohei Sugawara](http://hayatokobayashi.com/), Hayato Kobayashi and Masajiro Iwasaki
 
 
 
