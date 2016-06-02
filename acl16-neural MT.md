@@ -25,7 +25,7 @@ http://arxiv.org/abs/1512.02433 [cited by 5]
 ### Modeling Coverage for Neural Machine Translation
 Zhaopeng Tu, Zhengdong Lu, Yang Liu, Xiaohua Liu and Hang Li
 
-http://arxiv.org/abs/1601.04811 [iclr16 workshop](http://beta.openreview.net/forum?id=jZ9WrEWPmsnlBG2XfGLl)
+http://arxiv.org/abs/1601.04811 [iclr16 workshop](http://beta.openreview.net/forum?id=jZ9WrEWPmsnlBG2XfGLl) [github code](https://github.com/tuzhaopeng/NMT-Coverage)
 
 ### Neural Machine Translation of Rare Words with Subword Units
 Rico Sennrich, Barry Haddow and Alexandra Birch
